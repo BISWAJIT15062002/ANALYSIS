@@ -1,0 +1,15 @@
+refund_id,enrollment_id,refund_date,refund_reason,refund_amount
+934648,289735,06-01-2025,Course content not satisfactory,12
+906961,113892,03-01-2025,Enrolled by mistake,5
+773858,625488,15-01-2025,,10
+590835,421104,08-01-2025,Technical issue,12
+986454,290392,02-01-2025,Enrolled by mistake,5
+512219,139195,06-01-2025,Enrolled by mistake,3
+933164,367881,16-01-2025,Course content not satisfactory,2
+984653,990338,16-01-2025,,6
+477922,203994,16-01-2025,,7
+152641,393231,12-01-2025,Course content not satisfactory,8
+101561,127363,02-01-2025,,4
+754641,723779,11-01-2025,Technical issue,5
+401052,278135,02-01-2025,Course content not satisfactory,3
+590167,606445,06-01-2025,Enrolled by mistake,7

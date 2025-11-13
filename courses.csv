@@ -1,0 +1,64 @@
+course_id,title,category,language,subtitles,price,instructor_id,length,difficulty_level,created_on,last_updated_on,number_of_videos,number_of_quizzes,view_count,average_watch_duration,certification_available,completion_rate,bookmark_count
+54145,Data structures through C++,Technology and Programming,English,no,0,668495,10:16,Beginner,18-11-2020,09-01-2025,28,9,514,00:41,yes,43.71,188
+45770,Advanced Mathematics for Engineers,Science and Mathematics,English,yes,0,767050,20:28,Intermediate,04-10-2020,07-01-2025,23,8,7570,08:12,no,46.27,83
+33057,Advanced Data structures through Python,Technology and Programming,Hindi,yes,0,220585,11:35,Intermediate,16-11-2021,14-01-2025,57,4,5265,12:35,yes,44.74,165
+64796,First Aid and CPR Certification,Health,English,yes,0,871007,10:20,Advanced,24-08-2020,08-01-2025,82,1,8483,01:46,no,20.55,32
+51293,Managing Diabetes and Chronic Diseases,Health,English,yes,0,278667,08:05,Intermediate,07-03-2020,15-01-2025,55,10,1429,13:21,no,49.4,279
+49963,How to Teach Reading and Writing Effectively,Education,English,yes,0,288315,05:35,Beginner,23-01-2021,06-01-2025,36,14,2706,03:48,no,30.86,122
+93619,Environmental Science: Understanding Ecosystems,Science and Mathematics,English,yes,0,288315,08:30,Beginner,20-09-2024,05-01-2025,15,7,3911,04:55,yes,35.56,198
+30371,Introduction to Quantum Physics,Science and Mathematics,English,yes,0,457246,10:31,Beginner,07-01-2023,13-01-2025,95,13,9111,02:02,yes,12.88,117
+18426,Creative Writing: Crafting Compelling Stories,Arts and Design,English,yes,0,220585,12:32,Beginner,10-04-2022,01-01-2025,60,6,2594,17:00,no,69.54,144
+21108,Teaching Strategies for the 21st Century,Education,English,yes,0,417012,07:48,Advanced,29-01-2020,03-01-2025,42,10,3307,10:57,yes,19.53,146
+97988,Classroom Management: Techniques for Success,Education,English,yes,0,767050,17:49,Intermediate,12-01-2021,15-01-2025,36,5,1946,01:24,no,69.43,447
+13258,Instructional Design for Online Learning,Education,English,yes,0,764597,07:56,Advanced,05-12-2022,01-01-2025,48,11,7698,01:41,yes,55.35,452
+97039,Early Childhood Education Fundamentals,Education,English,yes,0,204568,07:53,Beginner,29-07-2022,08-01-2025,52,6,8285,12:46,yes,88.74,308
+32369,Python Masterclass,Technology and Programming,English,yes,0,457246,08:04,Advanced,13-08-2024,03-01-2025,23,0,611,19:03,no,85.74,476
+65005,Digital Marketing Masterclass,Business and Management,English,yes,0,751788,06:06,Beginner,05-08-2022,08-01-2025,57,6,3225,13:47,no,16.09,213
+76064,Leadership and Strategic Management,Business and Management,English,no,0,838186,10:09,Intermediate,18-04-2020,16-01-2025,68,6,2071,20:47,no,73.42,450
+79177,Financial Analysis for Decision-Making,Business and Management,English,yes,0,278667,08:29,Advanced,04-12-2020,01-01-2025,98,17,4575,08:01,no,48.38,374
+92956,Project Management: From Initiation to Execution,Business and Management,English,yes,0,525207,01:02,Intermediate,18-05-2023,06-01-2025,65,14,6857,05:00,yes,13.52,32
+53452,Entrepreneurship 101: Building Your First Startup,Business and Management,English,yes,81,457246,09:01,Advanced,12-01-2023,03-01-2025,44,6,3947,14:51,yes,62.01,447
+85886,Graphic Design Essentials: Tools and Techniques,Arts and Design,English,yes,121,220585,02:18,Intermediate,04-03-2024,04-01-2025,21,19,6117,14:52,yes,23.11,337
+62276,UX/UI Design Fundamentals,Arts and Design,English,yes,105,582060,12:26,Beginner,14-08-2021,08-01-2025,84,12,6196,14:22,no,21.81,344
+45749,Python for Data Science and Machine Learning,Technology and Programming,English,no,136,457246,03:38,Intermediate,14-01-2023,08-01-2025,27,10,5976,20:29,yes,53.14,348
+64561,Photography: From Beginner to Pro,Arts and Design,French,yes,20,632410,11:34,Advanced,01-03-2023,14-01-2025,30,18,2385,06:52,yes,16.54,214
+30790,Introduction to Animation and Motion Graphics,Arts and Design,English,yes,38,582060,01:16,Advanced,21-06-2022,12-01-2025,95,5,3815,10:31,yes,68.55,408
+64745,Physics Made Simple: Fundamentals to Advanced,Science and Mathematics,English,yes,150,536923,19:22,Advanced,27-09-2024,04-01-2025,62,3,3799,20:41,yes,76.75,458
+51452,Data structures through C,Technology and Programming,French,yes,58,457246,16:09,Beginner,18-07-2024,07-01-2025,98,9,4062,12:19,no,53.36,49
+56799,The Science of Everyday Chemistry,Science and Mathematics,English,yes,58,204568,06:52,Advanced,04-01-2025,13-01-2025,19,2,4252,14:07,yes,38.6,206
+27431,Biology: Understanding the Human Body,Science and Mathematics,English,yes,188,751788,10:27,Advanced,07-04-2021,02-01-2025,85,15,9821,01:43,yes,12.52,163
+58566,Introduction to Astrophysics,Science and Mathematics,English,yes,17,536923,18:49,Beginner,14-05-2020,03-01-2025,64,18,5851,15:01,yes,87.02,388
+21248,Full-Stack Web Development Bootcamp,Technology and Programming,English,yes,32,582060,04:29,Intermediate,06-04-2023,01-01-2025,53,7,9989,15:02,yes,54.21,360
+12938,Climate Change: Science and Solutions,Science and Mathematics,English,yes,125,712134,05:37,Advanced,10-03-2021,11-01-2025,13,16,7381,02:32,yes,31.98,289
+77946,Biotechnology: Applications and Impact,Science and Mathematics,English,yes,147,871007,17:31,Beginner,26-07-2022,15-01-2025,67,9,2766,01:18,yes,44.14,351
+67194,Astronomy: Exploring the Universe,Science and Mathematics,English,yes,29,173468,06:49,Intermediate,18-01-2024,12-01-2025,15,9,3092,07:21,no,56.69,252
+74770,Marine Biology: Life Under the Sea,Science and Mathematics,English,no,192,668495,04:10,Beginner,07-09-2023,03-01-2025,26,19,9320,00:28,yes,73.55,220
+86558,Genetics: From DNA to Evolution,Science and Mathematics,English,yes,191,751788,14:30,Beginner,03-07-2021,02-01-2025,45,13,9230,13:04,yes,31.02,485
+27385,Mastering React: Advanced Concepts,Technology and Programming,English,yes,101,241479,05:07,Beginner,04-12-2024,12-01-2025,30,2,9445,05:42,yes,62.79,279
+62660,Renewable Energy: Technologies and Applications,Science and Mathematics,English,yes,152,536923,06:37,Intermediate,08-02-2022,11-01-2025,24,17,751,07:12,yes,20.66,359
+68511,Mindfulness and Stress Management,Personal Development,English,yes,12,871007,17:42,Intermediate,26-11-2022,09-01-2025,84,16,245,09:56,no,35.56,124
+57353,Public Speaking and Communication Mastery,Personal Development,English,yes,132,712134,07:06,Beginner,07-10-2023,16-01-2025,59,17,8970,02:09,yes,78.63,74
+48950,Productivity Hacks: Achieve More Every Day,Personal Development,Hindi,yes,27,712134,08:40,Intermediate,22-12-2021,03-01-2025,90,11,3792,08:26,yes,44.55,445
+99133,The Art of Negotiation and Persuasion,Personal Development,English,no,111,742878,13:28,Advanced,11-08-2021,10-01-2025,38,4,7953,19:50,yes,42.52,446
+60079,Time Management for Busy Professionals,Personal Development,English,yes,172,457246,03:27,Advanced,13-10-2023,03-01-2025,13,13,1186,17:05,no,72.16,395
+22005,Nutrition and Healthy Living,Health,English,yes,20,838186,11:19,Advanced,28-05-2023,04-01-2025,87,10,5148,15:32,yes,70.59,429
+56956,Data structures through C#,Technology and Programming,French,yes,160,525207,19:08,Intermediate,22-09-2021,09-01-2025,53,2,8122,10:34,yes,60.51,128
+33454,Mental Health Awareness and Support,Health,English,yes,78,838186,11:59,Intermediate,24-02-2021,15-01-2025,40,18,3233,11:19,yes,36.8,346
+39766,Fitness Coaching: Becoming a Personal Trainer,Health,English,yes,81,364202,20:56,Beginner,02-10-2024,10-01-2025,98,9,3212,11:45,yes,35.69,408
+31874,Public Health: Foundations and Future Trends,Health,English,yes,158,767050,10:40,Beginner,19-11-2024,16-01-2025,36,19,5627,05:56,yes,49.76,125
+20671,Anatomy and Physiology: Understanding the Human Body,Health,Spanish,yes,133,871007,05:16,Advanced,24-07-2024,12-01-2025,19,8,2138,12:52,yes,41.45,34
+93568,Yoga and Mindfulness for Wellness,Health,French,yes,75,764597,09:32,Advanced,22-12-2024,05-01-2025,63,6,4453,01:27,yes,49.16,55
+96323,Global Health and Epidemiology,Health,English,yes,121,424379,12:48,Beginner,21-12-2023,09-01-2025,15,2,4644,03:35,yes,20.19,49
+89472,Introduction to Cybersecurity,Technology and Programming,English,no,200,278667,19:03,Beginner,14-02-2022,16-01-2025,24,10,4641,09:27,yes,27.64,309
+69513,Introduction to Medical Terminology,Health,English,yes,78,220585,18:37,Intermediate,11-02-2021,12-01-2025,38,5,6379,06:34,yes,86.36,46
+56446,Advanced Data structures through C++,Technology and Programming,English,yes,199,220585,08:54,Intermediate,02-11-2020,06-01-2025,38,7,7628,19:10,no,83.41,143
+20195,Advanced Data structures through C#,Technology and Programming,English,yes,10,295438,20:54,Intermediate,13-10-2022,13-01-2025,67,6,3904,03:54,yes,66.99,226
+59716,Advanced Data structures through Java,Technology and Programming,English,yes,199,173468,18:48,Intermediate,19-03-2021,01-01-2025,36,15,7254,16:21,yes,49.92,315
+71838,Data structures through Java,Technology and Programming,English,yes,123,871007,20:53,Advanced,12-08-2020,05-01-2025,97,12,2858,12:13,yes,38.26,140
+78724,Special Education: Understanding Disabilities,Education,English,no,193,668495,01:43,Advanced,11-11-2024,07-01-2025,41,20,1159,14:45,no,41.11,176
+72387,Culturally Responsive Teaching,Education,English,yes,107,536923,14:05,Intermediate,18-12-2023,14-01-2025,42,11,3844,08:23,no,30.79,80
+54046,AI and Deep Learning with TensorFlow,Technology and Programming,English,yes,66,632410,07:54,Beginner,19-07-2022,16-01-2025,58,11,886,07:05,no,22.7,315
+93178,Gamification in Education,Education,English,no,151,525207,15:09,Intermediate,09-06-2020,11-01-2025,28,13,4663,05:14,yes,23.33,34
+86724,Educational Psychology: Enhancing Learning Outcomes,Education,English,yes,33,668495,06:18,Advanced,19-03-2022,09-01-2025,70,13,2851,07:01,no,25.63,364
+42258,Developing Curriculum for K-12 Education,Education,English,yes,27,370558,04:49,Intermediate,21-10-2021,07-01-2025,80,11,3031,04:34,no,29.65,4
+23531,Childhood Education Fundamentals,Education,English,yes,53,742878,02:25,Beginner,27-07-2021,06-01-2025,31,1,7785,04:54,yes,78.94,427
