@@ -1,41 +1,134 @@
-ANALYSIS OF BUSINESS DATA USING MY SQL
-	There is Multiple Data sets of a Technical Institute ,which provided different types of courses.
-	The Data sets are basically in CSV format, also there are multiple ‘NULL’  values.
-	Project Overview
-•	This project focuses on performing **Exploratory Data Analysis (EDA)** using **SQL** on a dataset from a *Coding Institute*.  
-•	The dataset contains information about **Users, Courses, Enrollments, Payments, Refunds, and Ratings**.  
-•	The goal of this analysis was to understand **student behavior**, **course performance**, and **revenue patterns** through efficient SQL queries.
-	The Files are
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\courses.csv"
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\enrollments.csv"
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\payments.csv"
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\ratings.csv"
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\refunds.csv"
- 	"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\users.csv"
-	Dataset Description
-•	| **Users** | Information about students and instructors (user_id, name, email, country, registration_date, user_type) |
-•	| **Courses** | Details of each course (course_id, title, category, instructor_id, price) |
-•	| **Enrollments** | Links users to the courses they enrolled in (enrollment_id, student_id, course_id, enrollment_date) |
-•	| **Payments** | Payment transactions for courses (payment_id, student_id, amount, payment_date, status) |
-•	| **Refunds** | Refund details (refund_id, payment_id, refund_date, refund_amount, reason) |
-•	| **Ratings** | Ratings and reviews for courses (review_id, course_id, student_id, rating, review_text, date) |
-	To Perform EDA (Exploratory Data Analysis) in these data sets we have to follows different steps, let’s discuss one by one 
+# Analysis of Business Data using MySQL
 
-	ELT(Extraction Load Transformation)
-•	1st we extract the Data sets from Kaggle , then load these data sets one by one in my SQL server, after loading data then Transform the values into required format.
-•	To load the data we have to create multiple tables according to data files, change the data types.
-•	Make all the column Nullable so that if there is any null values in the data sets that can easily inserted .
-•	Then in Transformation steps  Remove the Null values, Blank Rows, Duplicate Rows, Change the Date data Type.
-	EDA(Exploratory Data Analysis)
-•	Calculate KPI Cards : Total Revenue, Total Users, Average Ratings of courses, etc.
-•	Calculate Monthly, Yearly Trends.
-•	Calculate Total Students by course wise category, Measure Refund Reasons, etc.
-	Concept Used
-Select Clause, Group By clause, Agg Functions, Window Functions, Joins, Subquery, Stored Procedure etc.
- 
-                                                           🧑‍💻 Author
+## 📌 Project Overview
+This project focuses on performing **Exploratory Data Analysis (EDA)** using **MySQL** on multiple business datasets from a **Technical / Coding Institute** that offers various professional courses.
 
-                                                         **Biswajit Das**  
-                                                      Data Analyst Enthusiast  
-                                                 📧 dasbiswajitdas2020@gmail.com  
+The datasets were provided in **CSV format** and contained multiple **NULL values, duplicate records, and inconsistent data types**. The project demonstrates a complete **ELT (Extract, Load, Transform)** workflow followed by analytical SQL queries to understand **student behavior, course performance, and revenue patterns**.
+
+This project reflects **real-world SQL and data analysis scenarios** commonly handled by data analysts and consulting professionals.
+
+---
+
+## 🎯 Business Objective
+The objectives of this project are to:
+- Clean and transform raw CSV datasets using MySQL
+- Analyze course enrollments and student behavior
+- Identify revenue and refund trends
+- Evaluate course ratings and engagement
+- Generate actionable business insights using SQL
+
+---
+
+## 🛠️ Tech Stack
+- **Database:** MySQL Server 8.0
+- **Data Format:** CSV
+- **Tools:** MySQL Workbench
+- **Concepts:** SQL, ELT, EDA
+- **Version Control:** GitHub
+
+---
+
+## 📂 Data Sources
+The following CSV files were loaded into MySQL:
+C:\ProgramData\MySQL\MySQL Server 8.0\Uploads
+- ├── courses.csv
+- ├── enrollments.csv
+- ├── payments.csv
+- ├── ratings.csv
+- ├── refunds.csv
+- └── users.csv
+
+---
+
+## 🗄️ Dataset Description
+| Table Name | Description |
+|-----------|------------|
+| **Users** | Student and instructor details (user_id, name, email, country, registration_date, user_type) |
+| **Courses** | Course details (course_id, title, category, instructor_id, price) |
+| **Enrollments** | Student–course enrollment records (enrollment_id, student_id, course_id, enrollment_date) |
+| **Payments** | Payment transaction details (payment_id, student_id, amount, payment_date, status) |
+| **Refunds** | Refund information (refund_id, payment_id, refund_date, refund_amount, reason) |
+| **Ratings** | Course ratings and reviews (review_id, course_id, student_id, rating, review_text, date) |
+
+---
+
+## 🔄 ELT Process (Extract, Load, Transform)
+
+### 1️⃣ Extraction
+- Datasets were sourced from **Kaggle** in CSV format
+
+### 2️⃣ Load
+- Created separate tables for each dataset in MySQL
+- Defined appropriate data types for each column
+- All columns were kept **NULLABLE** to allow seamless data loading
+- Imported data using `LOAD DATA INFILE`
+
+### 3️⃣ Transformation
+- Removed NULL values and blank rows
+- Eliminated duplicate records
+- Standardized date formats
+- Cleaned inconsistent data values
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+### 🔹 KPI Metrics
+- Total Revenue
+- Total Users
+- Total Enrollments
+- Average Course Ratings
+
+### 🔹 Trend Analysis
+- Monthly revenue trends
+- Yearly enrollment growth
+- Course demand over time
+
+### 🔹 Business Insights
+- Students by course category
+- Course-wise revenue contribution
+- Refund analysis by reason
+- High-performing and low-performing courses
+
+---
+
+## 🧠 SQL Concepts Used
+- SELECT, WHERE, HAVING
+- GROUP BY
+- Aggregate Functions (SUM, COUNT, AVG)
+- Window Functions
+- Joins (INNER, LEFT)
+- Subqueries
+- Stored Procedures
+
+---
+
+## 💡 Key Learnings
+- Handling real-world messy datasets using SQL
+- Implementing ELT workflows in MySQL
+- Writing optimized analytical queries
+- Translating raw data into meaningful insights
+
+---
+
+## 🚀 Future Enhancements
+- Advanced stored procedures and functions
+- Indexing and performance tuning
+- Automated EDA reports
+- Power BI / Tableau integration
+- Migration to Oracle PL/SQL
+
+---
+
+## 🧑‍💻 Author
+**Biswajit Das**  
+Data Analyst Enthusiast  
+📧 dasbiswajitdas2020@gmail.com
+
+---
+
+⭐ *If you find this project useful, feel free to star the repository!*
+
+
+                                                      
 
